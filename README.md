@@ -1,4 +1,4 @@
-# Preinforme
+# Preinforme JIDSAnalytics - Taller I - Alaska-Aleutianas oriental versus sur de Chile: Sismicidad en márgenes de alta latitud 
 Descripción
 Este repositorio contiene los datos y el código utilizados para el desarrollo del preinforme elaborado por el grupo JIDSAnalytics.
 La información sísmica empleada fue obtenida desde el catálogo de eventos del USGS.
